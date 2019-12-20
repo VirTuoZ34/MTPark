@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MTPark</string>
+    <string name="AddFav">Add to favorites</string>
+    <string name="PHSurname">"Give a surname: "</string>
+    <string name="free">"Free places: "</string>
+    <string name="name">"Name: "</string>
+    <string name="ok">Validate</string>
+    <string name="status">"Status: "</string>
+    <string name="surname">"Surname: "</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">My favorites</string>
+    <string name="maj">"Last update on: "</string>
+    <string name="noFav">No favoris</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MTPark</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Mes favoris</string>
+    <string name="title_notifications" translatable="false">Notifications</string>
+    <string name="title_activity_navbar" translatable="false">NavbarActivity</string>
+    <string name="AddFav">Ajouter aux favoris</string>
+    <string name="name">Nom: </string>
+    <string name="surname">Surnom: </string>
+    <string name="status">Status: </string>
+    <string name="free">Places disponibles: </string>
+    <string name="PHSurname">Donner un surnom:</string>
+    <string name="ok">Valider</string>
+    <string name="maj">Dernière mise à jour: </string>
+    <string name="noFav">Pas de favoris</string>
+
+
+
+
+
+
+</resources>
